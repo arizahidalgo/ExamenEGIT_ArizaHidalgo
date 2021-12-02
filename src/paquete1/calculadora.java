@@ -26,6 +26,7 @@ public class calculadora {
 			break;
 
 		default:
+			System.out.println("Mal");
 			break;
 		}
 		
